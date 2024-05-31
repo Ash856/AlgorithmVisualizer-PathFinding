@@ -37,30 +37,30 @@ https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/798954
 ## Table of Contents
 - [Overview](#algorithm-visualizer-for-path-finding)
 - [Features](#Features)
-- [Algorithms visualized](#Algorithms_visualized)
+- [Algorithms visualized](#Algorithms-visualized)
 - [Demo](#demo)
 - [Scope](#scope)
 - [Screenshots and Videoclips](#Screenshots-and-Videoclips)
   -[Astar](#Astar)
   -[BFS](#BFS)
   -[DFS](#DFS)
-  -[Dijkstra's](#Dijkstra's)
+  -[Dijkstra](#Dijkstra)
   -[GBFS](#GBFS)
   -[Maze generation](#Maze-generation)
   -[Comparing the algorithms](#Comparing-the-algorithms)
 - [Dependencies](#Dependencies)
 - [Installation](#Installation)
-  - [clone the repository or download all the files](#clone-the-repository)
+  - [clone the repository or download all the files](#clone-the-repository-or-download-all-the-files)
   - [Set up Python Environment](#Set-up-Python-Environment)
   - [Install Dependencies](#Install-Dependencies)
   - [Run the Visualizer](#Run-the-Visualizer)
 - [Controls](#Controls)
-   - [Mouse](#Mouse:)
-   - [Keyboard](#Keyboard:)
+   - [Mouse](#Mouse)
+   - [Keyboard](#Keyboard)
    - [Tips](#Tips)
--[ Motivation and lessons](#Motivation_and_lessons)
--[Optimizations and future improvements](#Optimizations_and_future_improvements)
--[Resources and references](#Resources_and_references)
+-[ Motivation and lessons](#Motivation-and-lessons)
+-[Optimizations and future improvements](#Optimizations-and-future-improvements)
+-[Resources and references](#Resources-and-references)
 
 ## Scope
 
@@ -84,7 +84,7 @@ https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/93367d
 ### DFS
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/f111b0e7-59eb-4537-901b-03b273dae6b0
 
-### Dijkstra's
+### Dijkstra
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/98253ad4-8081-42bc-ae82-284c26772b3c
 
 ### GBFS
