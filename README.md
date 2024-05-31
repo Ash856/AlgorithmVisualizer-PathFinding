@@ -35,24 +35,32 @@ This is a Python-based pathfinding algorithm visualizer that helps demonstrate h
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/798954bb-32f1-43cf-aad4-4596ad6c9077
 
 ## Table of Contents
-- [Overview](#Algorithm Visualizer for path finding)
+- [Overview](#algorithm-visualizer-for-path-finding)
 - [Features](#Features)
+- [Algorithms visualized](#Algorithms_visualized)
 - [Demo](#demo)
 - [Scope](#scope)
-- [Screenshots and Videoclips](# Screenshots and   Videoclips)
+- [Screenshots and Videoclips](#Screenshots-and-Videoclips)
   -[Astar](#Astar)
   -[BFS](#BFS)
   -[DFS](#DFS)
   -[Dijkstra's](#Dijkstra's)
   -[GBFS](#GBFS)
-  -[Maze generation](#Maze generation)
-  -[Comparing the algorithms](#Comparing the algorithms)
+  -[Maze generation](#Maze-generation)
+  -[Comparing the algorithms](#Comparing-the-algorithms)
 - [Dependencies](#Dependencies)
 - [Installation](#Installation)
   - [clone the repository or download all the files](#clone-the-repository)
-  - [Set up Python Environment](#Set up Python Environment)
-  - [Install Dependencies](#Install Dependencies)
-  - [Run the Visualizer](#Run the Visualizer)
+  - [Set up Python Environment](#Set-up-Python-Environment)
+  - [Install Dependencies](#Install-Dependencies)
+  - [Run the Visualizer](#Run-the-Visualizer)
+- [Controls](#Controls)
+   - [Mouse](#Mouse:)
+   - [Keyboard](#Keyboard:)
+   - [Tips](#Tips)
+-[ Motivation and lessons](#Motivation_and_lessons)
+-[Optimizations and future improvements](#Optimizations_and_future_improvements)
+-[Resources and references](#Resources_and_references)
 
 ## Scope
 
@@ -154,7 +162,7 @@ This setup will ensure that you have all the necessary dependencies installed, a
 - Press M : To generate random mazes
 - Press W : To compare all the algorithms in one situation and display statistics like time taken and number of comparisons done
 
-#### Tips : 
+#### Tips: 
 
 Place the start and end after maze is generated.
 
