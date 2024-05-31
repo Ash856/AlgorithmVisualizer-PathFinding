@@ -1,4 +1,5 @@
-![AVicon](https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/fbbb1bf4-0f6b-4c11-8cb1-de31f8bdafee)
+![AVBanner](https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/c86370a8-7062-472c-b36a-f2441327e3c0)
+
 
 
 
