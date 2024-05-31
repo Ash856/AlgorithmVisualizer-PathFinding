@@ -34,6 +34,25 @@ This is a Python-based pathfinding algorithm visualizer that helps demonstrate h
 
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/798954bb-32f1-43cf-aad4-4596ad6c9077
 
+## Table of Contents
+- [Overview](#Algorithm Visualizer for path finding)
+- [Features](#Features)
+- [Demo](#demo)
+- [Scope](#scope)
+- [Screenshots and Videoclips](# Screenshots and   Videoclips)
+  -[Astar](#Astar)
+  -[BFS](#BFS)
+  -[DFS](#DFS)
+  -[Dijkstra's](#Dijkstra's)
+  -[GBFS](#GBFS)
+  -[Maze generation](#Maze generation)
+  -[Comparing the algorithms](#Comparing the algorithms)
+- [Dependencies](#Dependencies)
+- [Installation](#Installation)
+  - [clone the repository or download all the files](#clone-the-repository)
+  - [Set up Python Environment](#Set up Python Environment)
+  - [Install Dependencies](#Install Dependencies)
+  - [Run the Visualizer](#Run the Visualizer)
 
 ## Scope
 
@@ -41,7 +60,7 @@ This project can be used by the following :
 
 - Students for understanding and learning about the working of algorithms
 - Teachers to teach algorithms
-- Curious minds to staisfy thier curiousity
+- Curious minds to staisfy their curiousity
 - For anyone who would like to play with algorithms
 - Developers for inspiration and knowledge
 
@@ -61,16 +80,18 @@ https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/f111b0
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/98253ad4-8081-42bc-ae82-284c26772b3c
 
 ### GBFS
+https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/4f2e0964-fc27-4578-9a6c-e03df482ff8f
 
 ### Maze generation
+https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/6a0c6cc7-fad6-47bb-b6e1-beed504fdee0
 
 ### Comparing the algorithms
 ![Comparing the Algorithms](https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/11637ed2-8290-41df-b77b-436f2b0d0fc6)
 
 ## Dependencies
-
 - Pygame
 - tinkter
+  
 ## Installation
 
 To get started with the pathfinding algorithm visualizer, follow these steps:
