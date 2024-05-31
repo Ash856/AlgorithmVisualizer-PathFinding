@@ -62,6 +62,11 @@ https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/98253a
 
 ### GBFS
 
+### Maze generation
+
+### Comparing the algorithms
+![Comparing the Algorithms](https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/11637ed2-8290-41df-b77b-436f2b0d0fc6)
+
 ## Dependencies
 
 - Pygame
