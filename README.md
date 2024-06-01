@@ -1,11 +1,41 @@
 ![AVBanner](https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/c86370a8-7062-472c-b36a-f2441327e3c0)
 
 
-
-
 # Algorithm Visualizer for path finding
 
 This is a Python-based pathfinding algorithm visualizer that helps demonstrate how various pathfinding algorithms work. This visualizer is build in the form of an Interactive desktop game. It provides a graphical interface to visualize the process of finding the shortest path between two points in a grid layout.
+
+## Badges
+![Python](https://img.shields.io/badge/python-3.10.3-3776AB?style=for-the-badge&logo=python) ![Static Badge](https://img.shields.io/badge/Pygame-2.5.2-8DECB4?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Tkinter--40A2E3?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Path_finding-EEF5FF?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/Data_structure_and_algorithms-1C1678?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Visualization-C5FF95?style=for-the-badge)
+
+## Table of Contents
+- [Overview](#algorithm-visualizer-for-path-finding)
+- [Features](#Features)
+- [Algorithms visualized](#Algorithms-visualized)
+- [Demo](#demo)
+- [Scope](#scope)
+- [Screenshots and Videoclips](#Screenshots-and-Videoclips)
+  - [Astar](#Astar)
+  - [BFS](#BFS)
+  - [DFS](#DFS)
+  - [Dijkstra](#Dijkstra)
+  - [GBFS](#GBFS)
+  - [Maze generation](#Maze-generation)
+  - [Comparing the algorithms](#Comparing-the-algorithms)
+- [Dependencies](#Dependencies)
+- [Installation](#Installation)
+  - [Clone the repository or download all the files](#clone-the-repository-or-download-all-the-files)
+  - [Set up Python Environment](#Set-up-Python-Environment)
+  - [Install Dependencies](#Install-Dependencies)
+  - [Run the Visualizer](#Run-the-Visualizer)
+- [Controls](#Controls)
+   - [Mouse](#Mouse)
+   - [Keyboard](#Keyboard)
+   - [Tips](#Tips)
+- [ Motivation and lessons](#Motivation-and-lessons)
+- [Optimizations and future improvements](#Optimizations-and-future-improvements)
+- [Resources and references](#Resources-and-references)
 
 ## Features
 - Visualize popular pathfinding algorithms such as:
@@ -33,34 +63,6 @@ This is a Python-based pathfinding algorithm visualizer that helps demonstrate h
 ## Demo
 
 https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/798954bb-32f1-43cf-aad4-4596ad6c9077
-
-## Table of Contents
-- [Overview](#algorithm-visualizer-for-path-finding)
-- [Features](#Features)
-- [Algorithms visualized](#Algorithms-visualized)
-- [Demo](#demo)
-- [Scope](#scope)
-- [Screenshots and Videoclips](#Screenshots-and-Videoclips)
-  - [Astar](#Astar)
-  - [BFS](#BFS)
-  - [DFS](#DFS)
-  - [Dijkstra](#Dijkstra)
-  - [GBFS](#GBFS)
-  - [Maze generation](#Maze-generation)
-  - [Comparing the algorithms](#Comparing-the-algorithms)
-- [Dependencies](#Dependencies)
-- [Installation](#Installation)
-  - [clone the repository or download all the files](#clone-the-repository-or-download-all-the-files)
-  - [Set up Python Environment](#Set-up-Python-Environment)
-  - [Install Dependencies](#Install-Dependencies)
-  - [Run the Visualizer](#Run-the-Visualizer)
-- [Controls](#Controls)
-   - [Mouse](#Mouse)
-   - [Keyboard](#Keyboard)
-   - [Tips](#Tips)
-- [ Motivation and lessons](#Motivation-and-lessons)
-- [Optimizations and future improvements](#Optimizations-and-future-improvements)
-- [Resources and references](#Resources-and-references)
 
 ## Scope
 
@@ -104,16 +106,16 @@ https://github.com/Ash856/AlgorithmVisualizer-PathFinding/assets/92754191/6a0c6c
 
 To get started with the pathfinding algorithm visualizer, follow these steps:
 
-#### Clone the repository or download all the files
+#### 1. Clone the repository or download all the files
 ```bash
 git clone https://github.com/Ash856/AlgorithmVisualizer-PathFinding.git
 ```
 
-#### Set up Python environment
+#### 2. Set up Python environment
 
 Ensure you have Python 3 installed. You can download it from the official Python website.
 
-#### Install dependencies
+#### 3. Install dependencies
 The project relies on Pygame and Tkinter for its graphical interface. You need to install these dependencies using pip and your system's package manager if necessary.
 
 For Pygame:
@@ -126,7 +128,7 @@ For Tkinter:
 
 Tkinter is usually included with Python, but if you need to install it separately, you can do so. 
 
-#### Run the visualizer
+#### 4. Run the visualizer
 Open the code in vs code or any ide and simply run the main.py
 
 or
@@ -170,8 +172,6 @@ Don't click outside the game window.
 
 After a pop message appears on screen click ok and then click on screen again to resume normal functionalities
 
-
-
 ## Motivation and lessons
 
 The main motivation of this project was to visualize popular algorithms and some how be able to create a interactive playground for learning and understanding these algorithms and also develop it in python to strengthen my programming skills and expand my learning.
@@ -182,7 +182,6 @@ Lessons I learned along and skills gained:
  - A greater understanding of the Data structures used to implement the algorithms in python.
  - Better understanding of the Time and space complexity of each algorithm and their varied performance according to the situation(some algorithms work exceptionally well in some environment while remain average in others)
 
-
 ## Optimizations and future improvements
 
  - Use better data structures to implement the current algortihms like instead of list to implement stack for dfs use deqeue or numpy for better time complexity and improve performance.
@@ -191,9 +190,6 @@ Lessons I learned along and skills gained:
  - Generate better quality mazes.
  - Current version only has non weighted graph or grid so make a weighted feature.
  - Add more path finding algortihms
-
-
-
 
 
 ## Resources and references
