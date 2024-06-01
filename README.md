@@ -6,7 +6,7 @@
 This is a Python-based pathfinding algorithm visualizer that helps demonstrate how various pathfinding algorithms work. This visualizer is build in the form of an Interactive desktop game. It provides a graphical interface to visualize the process of finding the shortest path between two points in a grid layout.
 
 ## Badges
-![Python](https://img.shields.io/badge/python-3.10.3-3776AB?style=for-the-badge&logo=python)  ![Static Badge](https://img.shields.io/badge/Pygame-2.5.2-8DECB4?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Tkinter--40A2E3?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Path_finding-EEF5FF?style=for-the-badge) 
+![Python](https://img.shields.io/badge/python-3.10.3-3776AB?style=for-the-badge&logo=python) <space> ![Static Badge](https://img.shields.io/badge/Pygame-2.5.2-8DECB4?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Tkinter--40A2E3?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Path_finding-EEF5FF?style=for-the-badge) 
  ![Static Badge](https://img.shields.io/badge/Data_structure_and_algorithms-1C1678?style=for-the-badge)  ![Static Badge](https://img.shields.io/badge/Visualization-C5FF95?style=for-the-badge)
 
 ## Table of Contents
